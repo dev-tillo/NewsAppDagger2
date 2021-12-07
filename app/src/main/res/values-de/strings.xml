@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="projectname">Nuntium</string>
+    <string name="aboutlistener">Chats</string>
+    <string name="bookmarkbottom">Lesezeichen</string>
+    <string name="saved_articles_to_the_librarybookmarkbottom">Gespeicherte Artikel in der Bibliothek</string>
+    <string name="select_your_favorite_topics">Wählen Sie Ihre Lieblingsthemen</string>
+    <string name="select_some_of_your_favorite_topics_to_let_us_suggest_better_news_for_you">Wählen Sie einige Ihrer Lieblingsthemen aus, damit wir Ihnen bessere Nachrichten vorschlagen können.</string>
+    <string name="first_to_know">Zuerst zu wissen</string>
+    <string name="all_news_in_one_place_be_the_n_first_to_know_last_news">Alle Neuigkeiten an einem Ort,\n erfährt als erster die letzten Neuigkeiten</string>
+    <string name="next">Nächste</string>
+    <string name="categories">Kategorien</string>
+    <string name="thousands_of_articles_in_each_category">Tausende von Artikeln in jeder Kategorie</string>
+    <string name="browse">Durchsuche</string>
+    <string name="discover_things_of_this_world">Entdecke Dinge dieser Welt</string>
+    <string name="search">Suche</string>
+    <string name="recommended_for_you">für dich empfohlen</string>
+    <string name="see_all">Alles sehen</string>
+    <string name="results">Ergebnisse</string>
+    <string name="language">Sprache</string>
+    <string name="settings">Einstellungen</string>
+    <string name="light_mode">Lichtmodus</string>
+    <string name="getstart">Loslegen</string>
+
+</resources>

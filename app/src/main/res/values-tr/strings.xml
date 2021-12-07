@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="projectname">Nuntium</string>
+    <string name="aboutlistener">sohbetler</string>
+    <string name="bookmarkbottom">Yer imleri</string>
+    <string name="saved_articles_to_the_librarybookmarkbottom">Kitaplığa kaydedilen makaleler</string>
+    <string name="select_your_favorite_topics">Favori konularınızı seçin</string>
+    <string name="select_some_of_your_favorite_topics_to_let_us_suggest_better_news_for_you">Sizin için daha iyi haberler önermemize izin vermek için favori konularınızdan bazılarını seçin.</string>
+    <string name="first_to_know">ilk bilmek</string>
+    <string name="all_news_in_one_place_be_the_n_first_to_know_last_news">Tüm haberler tek bir yerde, son haberleri ilk\n öğrenen siz olun</string>
+    <string name="next">Sonraki</string>
+    <string name="categories">Kategoriler</string>
+    <string name="thousands_of_articles_in_each_category">Her kategoride binlerce makale</string>
+    <string name="browse">Araştır</string>
+    <string name="discover_things_of_this_world">Bu dünyanın şeylerini keşfedin</string>
+    <string name="search">Arama</string>
+    <string name="recommended_for_you">Sizin için önerilen</string>
+    <string name="see_all">Hepsini gör</string>
+    <string name="results">Sonuçlar</string>
+    <string name="language">Dilim</string>
+    <string name="settings">Ayarlar</string>
+    <string name="light_mode">Işık Modu</string>
+    <string name="getstart">Başlamak</string>
+
+</resources>
